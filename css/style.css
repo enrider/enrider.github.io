@@ -1,5 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Roboto+Mono);
+
 body {
   background-color: #97c9a8;
+  margin: 100px 100px 80px 150px;
+  font-family: 'roboto mono';
 }
 
 h1 {
