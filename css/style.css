@@ -2,7 +2,7 @@
 
 body {
   background-color: #97c9a8;
-  margin: 100px 100px 80px 150px;
+  margin: 100px 400px 80px 600px;
   font-family: 'roboto mono';
 }
 
@@ -28,4 +28,8 @@ a:visited {
 a:hover, a:active {
   color: #1c4029;
   text-decoration: underline;
+}
+
+marquee {
+  font-size: 60px;
 }
